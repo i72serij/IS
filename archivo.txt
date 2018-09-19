@@ -1,3 +1,6 @@
 Fichero inicial para modificar
 
 Este es el primer cambio
+
+Este es el segundo cambio
+Este es el sgundo cambio
