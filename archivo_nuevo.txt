@@ -1,6 +1,8 @@
 Fichero inicial para modificar
 
 Este es el primer cambio
-
+cambio que no quiero
 Este es el segundo cambio
 Este es el sgundo cambio
+
+cambio que vamos a borrar
